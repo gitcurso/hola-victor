@@ -5,14 +5,14 @@ public class Adios {
 
 	private static String nombre = "Pepe";
 
-	private static String nombre = "THIS IS MY NAME";
+//	private static String nombre = "THIS IS MY NAME";
 	private static String nombre1 = "Pepe";
 
 	private static String nombre2 = "Name";
 	private static String nombre3 = "David"; 
-	private static String nombre = "Don José";
+//	private static String nombre = "Don José";
 
-	private static String nombre = "Name";
+//	private static String nombre = "Name";
 	
 	public static void main(String[] zz){
 
@@ -37,7 +37,7 @@ public class Adios {
 
 	public static int suma(int a, int b) {
 		
-		return a + b;
+	//	return a + b;
 
 
 		int foo;
@@ -57,6 +57,8 @@ public class Adios {
 			  //Never trust user input :)
 			  //Do something! Anything to handle the exception.
 		}
+
+		return a+b;
 	}
 
 
