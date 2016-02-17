@@ -1,6 +1,6 @@
 public class Adios {
 	
-	private static String nombre = "Name";
+	private static String nombre = "Plegue";
 
 	public static int suma(int a, int b) {
 	  return a + b;
