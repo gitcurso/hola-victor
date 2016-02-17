@@ -1,0 +1,22 @@
+public class Adios {
+	
+	private static String nombre = "Plegue";
+
+	public static int suma(int a, int b) {
+	  return a + b;
+	}
+
+
+	public static void main(String[] zz){
+
+<<<<<<< be0d438e05ef5643ad37c9bedbf13505c40337aa
+		System.out.println("Adios mundo " + nombre + suma(2,3));
+=======
+	public static void print(){
+		System.out.println("Adios a todos " + nombre);	
+		System.out.println("Adios mundo " + nombre + suma(2,4));
+>>>>>>>  change 3 to 4
+
+	}
+
+}
