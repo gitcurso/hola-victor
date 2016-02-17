@@ -15,5 +15,11 @@ public class Hola {
 		return 2 + 5;
 		
 	}
+	
+	public static multiplica(){
+		
+		return 2 * 2;
+		
+	}
 
 }
