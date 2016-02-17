@@ -4,7 +4,7 @@ public class Hola {
 	
 	public static void main(String[] zz){
 
-		System.out.println("Hola " + nombre+ );
+		System.out.println("Hola mundo2 " + nombre);
 
 	}
 
