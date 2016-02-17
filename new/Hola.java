@@ -2,14 +2,7 @@ import java.util.*;
 
 public class Hola {
 
-	private static String nombre = "Pato lalalalala";
-
-	
- 
-	private static String nombre2 = "Don Pepito";
-
-
-	
+public static String nombre;	
 	public static void main(String[] zz){
 		ArrayList<String> lista = new ArrayList<String>();
 

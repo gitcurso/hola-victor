@@ -8,8 +8,8 @@ public class Hola2 {
 		 
 		// (2) some time later ... assign elements to the array
 		intArray[0] = 1;
-		intArray[1] = 2;
-		intArray[2] = 3;
+		intArray[1] = 6;
+		intArray[2] = 9;
 		 
 		// (3) print our java int array
 		for (int i=0; i<intArray.length; i++)
