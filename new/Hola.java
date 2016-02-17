@@ -9,16 +9,17 @@ public static String nombre;
 		lista.add("casa");
 		lista.add("pajaro");
 		lista.add("coche");
+		lista.add("donuts");
+		lista.add("galletas");
 		
 		Integer resultado = suma();		
 		System.out.println("Hola mundo " + nombre + " " + resultado.toString());
-		System.out.println("Hola mundo " + nombre);
 
-
-		
 		for (String cosa : lista) {
 			System.out.println("Hola " + cosa);
 		}
+		
+
 		System.out.println("Hola mundo2 " + nombre);
 
 
@@ -33,6 +34,11 @@ public static String nombre;
 	public static int multiplica(){
 		
 		return 2 * 2;
+		
+	}
+	public static int divide(int a, int b){
+		
+		return a / b;
 		
 	}
 }

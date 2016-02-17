@@ -1,0 +1,27 @@
+From 7b9e173a55c0a7236b68c79eb540842f93f02b28 Mon Sep 17 00:00:00 2001
+From: Enrique Montero <enrique.montero@atos.net>
+Date: Wed, 17 Feb 2016 12:48:46 +0100
+Subject: [PATCH 2/2] cambios para rebase
+
+---
+ new/Hola.java | 3 ---
+ 1 file changed, 3 deletions(-)
+
+diff --git a/new/Hola.java b/new/Hola.java
+index 65fd322..e48d652 100644
+--- a/new/Hola.java
++++ b/new/Hola.java
+@@ -12,10 +12,7 @@ public static String nombre;
+ 		
+ 		Integer resultado = suma();		
+ 		System.out.println("Hola mundo " + nombre + " " + resultado.toString());
+-		System.out.println("Hola mundo " + nombre);
+ 
+-
+-		
+ 		for (String cosa : lista) {
+ 			System.out.println("Hola " + cosa);
+ 		}
+-- 
+2.7.1.windows.2
+

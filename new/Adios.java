@@ -9,7 +9,7 @@ public class Adios {
 
 	public static void main(String[] zz){
 
-		System.out.println("Adios mundo cruel" + nombre + suma(2,3));
+		System.out.println("Adios mundo manel" + nombre + suma(2,3));
 
 	}
 
