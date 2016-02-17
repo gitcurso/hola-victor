@@ -1,10 +1,10 @@
 public class HastaLuego {
 	
-	private static String nombre = "Pato Pajaroto";
+	private static String nombre = "Pato";
 	
 	public static void main(String[] zz){
 
-		System.out.println("Hasta luego " + nombre);
+		System.out.println("Hasta luego tio" + nombre);
 
 	}
 
