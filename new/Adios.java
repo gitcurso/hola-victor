@@ -1,6 +1,6 @@
 public class Adios {
 	
-	private static String nombre = "Name";
+	private static String nombre = "David";
 	
 	public static void main(String[] zz){
 
