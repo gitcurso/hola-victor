@@ -1,7 +1,19 @@
 public class Adios {
 	
+<<<<<<< HEAD
 	private static String NOMBRE = "Name";
 	
+=======
+	private static String nombre = "THIS IS MY NAME";
+	private static String nombre1 = "Pepe";
+	private static String nombre2 = "Name";
+	private static String nombre3 = "David";
+
+	public static int suma(int a, int b) {
+	  return a + b;
+	}
+
+>>>>>>> 53ae942ce8cb13b49382bcdda4b4066bffd13169
 	public static void main(String[] zz){
 <<<<<<< HEAD
 		System.out.println("Adios mundo " + NOMBRE);
@@ -33,5 +45,4 @@ public class Adios {
 		}
 >>>>>>> 99b26449e2752cbb5ecb2f7beda08e37909c31b7
 	}
-
 }
