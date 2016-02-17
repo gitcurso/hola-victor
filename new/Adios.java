@@ -1,6 +1,6 @@
 public class Adios {
 	
-	private static String nombre = "Pleguecito";
+	private static String nombre = "Victor oleee";
 
 	public static int suma(int a, int b) {
 	  return a + b;
@@ -12,5 +12,4 @@ public class Adios {
 		System.out.println("Adios mundo cruel" + nombre + suma(2,3));
 
 	}
-
 }
