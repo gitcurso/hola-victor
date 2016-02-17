@@ -10,6 +10,11 @@ public class Adios {
 
 	public static void main(String[] zz){
 
+	print();	
+	}
+
+	public static void print(){
+		System.out.println("Adios a todos " + nombre);	
 		System.out.println("Adios mundo " + nombre + suma(2,3));
 
 		int foo;
