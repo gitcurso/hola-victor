@@ -16,5 +16,8 @@ public class Hola {
 		for (String cosa : lista) {
 			System.out.println("Hola " + cosa);
 		}
+		System.out.println("Hola mundo2 " + nombre);
+
+
 	}
 }
