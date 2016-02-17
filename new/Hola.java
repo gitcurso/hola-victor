@@ -4,9 +4,10 @@ public class Hola {
 	
 	public static void main(String[] zz){
 
-		Integer resultado = suma();
-		
+		Integer resultado = suma();		
 		System.out.println("Hola mundo " + nombre + " " + resultado.toString());
+		System.out.println("Hola mundo " + nombre);
+		System.out.println("Hola mundo2 " + nombre);
 
 	}
 	
