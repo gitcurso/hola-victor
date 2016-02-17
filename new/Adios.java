@@ -1,21 +1,35 @@
 public class Adios {
 	
-	private static String nombre = "Pepe";
-	private static String nombre2 = "Name";
-	private static String nombre3 = "David";
 
-	public static int suma(int a, int b) {
-	  return a + b;
-	}
+
+	private static String nombre = "Pepe";
+
+	private static String nombre = "THIS IS MY NAME";
+	private static String nombre1 = "Pepe";
+
+	private static String nombre2 = "Name";
+	private static String nombre3 = "David"; 
+	private static String nombre = "Don José";
 
 	public static void main(String[] zz){
 
-	print();	
+
+		System.out.println("Adios " + nombre);
+
+		print();	
 	}
 
 	public static void print(){
 		System.out.println("Adios a todos " + nombre);	
+
 		System.out.println("Adios mundo " + nombre + suma(2,3));
+	}
+
+
+
+	public static int suma(int a, int b) {
+		
+		return a + b;
 
 		int foo;
 		String StringThatCouldBeANumberOrNot = "26263Hello"; //will throw exception
@@ -35,4 +49,5 @@ public class Adios {
 			  //Do something! Anything to handle the exception.
 		}
 	}
+
 }

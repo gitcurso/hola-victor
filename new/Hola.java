@@ -2,7 +2,8 @@ import java.util.*;
 
 public class Hola {
 	
-	private static String nombre = "Pato lalalalala";
+ 
+	private static String nombre = "Don Pepito";
 
 	
 	public static void main(String[] zz){
