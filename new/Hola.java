@@ -4,6 +4,10 @@ public class Hola {
 
 	private static String nombre = "Pato lalalalala";
 
+	
+ 
+	private static String nombre2 = "Don Pepito";
+
 
 	
 	public static void main(String[] zz){
