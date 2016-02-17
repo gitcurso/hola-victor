@@ -20,6 +20,8 @@ public static String nombre;
 			System.out.println("Hola " + cosa);
 		}
 		System.out.println("Hola mundo2 " + nombre);
+		System.out.println("Hola mundo2 " + nombre);
+		System.out.println("Hola mundo2 " + nombre);
 
 
 	}
