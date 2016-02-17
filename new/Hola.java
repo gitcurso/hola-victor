@@ -16,7 +16,7 @@ public class Hola {
 		
 	}
 	
-	public static multiplica(){
+	public static int multiplica(){
 		
 		return 2 * 2;
 		
