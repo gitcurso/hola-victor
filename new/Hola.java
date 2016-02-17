@@ -3,6 +3,7 @@ import java.util.*;
 public class Hola {
 	
 	private static String nombre = "Pato lalalalala";
+
 	
 	public static void main(String[] zz){
 		ArrayList<String> lista = new ArrayList<String>();
@@ -11,6 +12,8 @@ public class Hola {
 		lista.add("pajaro");
 		lista.add("coche");
 		
+		Integer resultado = suma();		
+		System.out.println("Hola mundo " + nombre + " " + resultado.toString());
 		System.out.println("Hola mundo " + nombre);
 		
 		for (String cosa : lista) {
@@ -18,6 +21,17 @@ public class Hola {
 		}
 		System.out.println("Hola mundo2 " + nombre);
 
-
+	}
+	
+	public static int suma(){
+		
+		return 2 + 5;
+		
+	}
+	
+	public static int multiplica(){
+		
+		return 2 * 2;
+		
 	}
 }
