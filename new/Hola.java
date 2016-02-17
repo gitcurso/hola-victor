@@ -2,7 +2,13 @@ import java.util.*;
 
 public class Hola {
 	
+<<<<<<< HEAD
 	private static String[] NOMBRE = {"Pato Pajaroto", "otro"};
+=======
+ 
+	private static String nombre = "Don Pepito";
+
+>>>>>>> 518799d60d9ed7eb43ce02508462440577c9a7de
 	
 	public static void main(String[] zz){
 <<<<<<< HEAD
@@ -16,6 +22,7 @@ public class Hola {
 		Integer resultado = suma();		
 		System.out.println("Hola mundo " + nombre + " " + resultado.toString());
 		System.out.println("Hola mundo " + nombre);
+		System.out.println("Welcome to Git ");
 		
 		for (String cosa : lista) {
 			System.out.println("Hola " + cosa);
