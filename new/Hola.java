@@ -1,39 +1,24 @@
 import java.util.*;
 
 public class Hola {
-
-public static String nombre;	
+	
+	private static String  s1 = "s1";
+	private static String  s2 = "s2";
+	
+	private static concatenateS () {
+		System.out.println(s1+s2);
+	}
+	private static final String NOMBRE = "Antonio";
+	
+    private static int otherData;
+	
 	public static void main(String[] zz){
-		ArrayList<String> lista = new ArrayList<String>();
-
-		lista.add("casa");
-		lista.add("pajaro");
-		lista.add("coche");
-		
-		Integer resultado = suma();		
-		System.out.println("Hola mundo " + nombre + " " + resultado.toString());
-		System.out.println("Hola mundo " + nombre);
-
-
-		
-		for (String cosa : lista) {
-			System.out.println("Hola " + cosa);
-		}
-		System.out.println("Hola mundo2 " + nombre);
-
-
+                       otherData=45;
+		System.out.println("Hello world " + NOMBRE + " " + otherData);
 	}
 	
-	public static int suma(){
-		
-		return 2 + 5;
-		
-	}
-	
-	public static int multiplica(){
-		
-		return 2 * 2;
-		
+	private static repeatS (int n) {
+		for (int i=0; i < n; i++) System.out.println(s1);
 	}
 }
 
