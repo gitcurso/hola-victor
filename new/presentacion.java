@@ -1,6 +1,6 @@
 public class presentacion {
 	
-	private static String nombre = "B";
+	private static String nombre = "BBB";
 	private static int edat = 18;
 
 	
