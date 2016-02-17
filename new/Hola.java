@@ -6,7 +6,6 @@ public class Hola {
 
 		System.out.println("Hola mundo " + nombre);
 		System.out.println("Welcome to Git ");
-
 	}
 
 }
