@@ -1,14 +1,25 @@
+import java.util.*;
+
 public class Hola {
 	
 	private static String nombre = "Pato lalalalala";
 
 	
 	public static void main(String[] zz){
+		ArrayList<String> lista = new ArrayList<String>();
 
+		lista.add("casa");
+		lista.add("pajaro");
+		lista.add("coche");
+		
 		Integer resultado = suma();		
 		System.out.println("Hola mundo " + nombre + " " + resultado.toString());
 		System.out.println("Hola mundo " + nombre);
 		System.out.println("Welcome to Git ");
+		
+		for (String cosa : lista) {
+			System.out.println("Hola " + cosa);
+		}
 		System.out.println("Hola mundo2 " + nombre);
 
 	}
@@ -24,5 +35,4 @@ public class Hola {
 		return 2 * 2;
 		
 	}
-
 }
