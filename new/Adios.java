@@ -1,6 +1,9 @@
 public class Adios {
 	
 	private static String nombre = "THIS IS MY NAME";
+	private static String nombre1 = "Pepe";
+	private static String nombre2 = "Name";
+	private static String nombre3 = "David";
 
 	public static int suma(int a, int b) {
 	  return a + b;
@@ -33,5 +36,4 @@ public class Adios {
 			  //Do something! Anything to handle the exception.
 		}
 	}
-
 }
