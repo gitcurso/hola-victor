@@ -1,11 +1,19 @@
 public class Hola {
 	
-	private static String nombre = "Pato Pajaroto";
+	private static String nombre = "Nombre usuario";
 	
 	public static void main(String[] zz){
 
-		System.out.println("Hola mundo " + nombre);
+		Integer resultado = suma();
+		
+		System.out.println("Hola mundo " + nombre + " " + resultado.toString());
 
+	}
+	
+	public static int suma(){
+		
+		return 2 + 2;
+		
 	}
 
 }
