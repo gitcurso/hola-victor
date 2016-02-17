@@ -4,8 +4,11 @@ public class Adios {
 	
 	public static void main(String[] zz){
 
-		System.out.println("Adios mundo " + nombre);
+	print();	
+	}
 
+	public static void print(){
+		 System.out.println("Adios a todos " + nombre);	
 	}
 
 }
