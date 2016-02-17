@@ -12,7 +12,7 @@ public class Hola {
 	
 	public static int suma(){
 		
-		return 2 + 2;
+		return 2 + 5;
 		
 	}
 
