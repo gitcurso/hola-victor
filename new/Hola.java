@@ -1,26 +1,23 @@
 import java.util.*;
 
-public class Hola {
+public class Adios {     
 
 public static String nombre;	
 	public static void main(String[] zz){
-		ArrayList<String> lista = new ArrayList<String>();
+		ArrayList<String> lista = new ArrayList<String>();     
 
 		lista.add("casa");
-		lista.add("pajaro");
+		lista.add("pajaro loco");
 		lista.add("coche");
 		
 		Integer resultado = suma();		
-		System.out.println("Hola mundo " + nombre + " " + resultado.toString());
-		System.out.println("Hola mundo " + nombre);
+		System.out.println("Adios mundo " + nombre + " " + resultado.toString());     
+		System.out.println("Adios mundo " + nombre);     
 
-
-		
 		for (String cosa : lista) {
-			System.out.println("Hola " + cosa);
+			System.out.println("Adios " + cosa);
 		}
-		System.out.println("Hola mundo2 " + nombre);
-
+                System.out.println("Adios mundo2 " + nombre);
 
 	}
 	
@@ -34,6 +31,10 @@ public static String nombre;
 		
 		return 2 * 2;
 		
+	}
+
+	public static void kk() {
+		System.out.println("kk");
 	}
 }
 
