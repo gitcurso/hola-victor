@@ -7,7 +7,6 @@ public class Hola {
 		int n = (int)System.currentTimeMillis() % 2;
 
 		System.out.println("Hola mundo " + NOMBRE[n]);
-
 	}
 
 }
