@@ -1,10 +1,10 @@
 public class Adios {
 	
-	private static String nombre = "Name";
+	private static String NOMBRE = "Name";
 	
 	public static void main(String[] zz){
 
-		System.out.println("Adios mundo " + nombre);
+		System.out.println("Adios mundo " + NOMBRE);
 
 	}
 
