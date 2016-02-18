@@ -1,14 +1,9 @@
 import java.util.*;
 
 public class Hola {
-<<<<<<< db0ef5cb4af97bf163cd876d96cbf5410c26a2f5
 
-public static String nombre;	
-=======
-	
 	private static String nombre = "Amador";
 	
->>>>>>> cambiado nombre2
 	public static void main(String[] zz){
 		ArrayList<String> lista = new ArrayList<String>();
 
