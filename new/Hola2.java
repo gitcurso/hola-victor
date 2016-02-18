@@ -4,12 +4,13 @@ public class Hola2 {
 	public static void main(String[] zz){
 
 		// (1) create a java int array
-		int[] intArray = new int[3];
+		int[] intArray = new int[4];
 		 
 		// (2) some time later ... assign elements to the array
 		intArray[0] = 1;
 		intArray[1] = 6;
 		intArray[2] = 9;
+		intArray[3] = 8;
 		 
 		// (3) print our java int array
 		for (int i=0; i<intArray.length; i++)
