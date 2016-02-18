@@ -3,7 +3,7 @@ public class plegue {
 	private static String nombre = "A";
 	private static String nombre2 = "A2";
 	private static int edat = 17;
-	private static int hola = "hola";
+	private static int hola = "hola2222";
 
 	
 	public static void main(String[] zz){
