@@ -7,5 +7,11 @@ public class saludogrande {
 		System.out.println("Saludo grande para " + nombre);
 
 	}
+	
+	public static void despedida(){
+		
+		System.outl.println("Gran despedida para " + nombre);
+		
+	}
 
 }
