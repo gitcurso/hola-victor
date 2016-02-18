@@ -9,7 +9,7 @@ public static String nombre;
 		lista.add("casa");
 		lista.add("pajaro");
 		lista.add("coche");
-		lista.add("meec");
+		lista.add("meeeeeeeeeec");
 		
 		Integer resultado = suma();		
 		System.out.println("Hola mundo " + nombre + " " + resultado.toString());
