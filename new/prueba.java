@@ -23,4 +23,10 @@ public class prueba {
 		return 2 * 2;
 		
 	}
+	
+	public static float divide(float a, float b){
+		
+		return a / b;
+		
+	}
 }
