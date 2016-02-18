@@ -4,6 +4,8 @@ public class prueba {
 	
 	private static String nombre = "Amador";	
 	
+	private static Integer i = 0;
+	
 	public static void main(String[] zz){
 		
 		System.out.println("Hola mundo2 " + nombre);
