@@ -7,5 +7,5 @@ public class Viva {
 		System.out.println("bug string: " + nombre2);
 
 	}
-
+//comentario commit
 }
