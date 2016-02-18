@@ -6,7 +6,7 @@ public class presentacion {
 	
 	public static void main(String[] zz){
 
-		System.out.println("Hola mundo " + nombre + "tienes" + edat + "años de edad");
+		System.out.println("Hoasdla mundo " + nombre + "tienes" + edat + "años de edad");
 
 	}
 
