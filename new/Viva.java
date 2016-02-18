@@ -1,6 +1,6 @@
 public class Viva {
 	
-	private static String nombre2 = "Viva yoooooooooo";
+	private static String nombre2 = "Vaya tela";
 	
 	public static void main(String[] zz){
 
