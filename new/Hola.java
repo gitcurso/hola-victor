@@ -41,7 +41,6 @@ public static String nombre;
 	
 	
 	
-//comentario commit 2
 //comentario commit	
 	
 }
