@@ -4,7 +4,7 @@ public class Viva {
 	
 	public static void main(String[] zz){
 
-		System.out.println("viva somebody " + nombre);
+		System.out.println("viva ssss " + nombre);
 
 	}
 
