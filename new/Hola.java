@@ -2,6 +2,9 @@ import java.util.*;
 
 public class Hola {
 
+	// Esta linea es un comentario
+	// La linea anterior es un comentario
+	// La linea anterior es un comentario de un comentario
 public static String nombre;	
 	public static void main(String[] zz){
 		ArrayList<String> lista = new ArrayList<String>();
@@ -12,7 +15,7 @@ public static String nombre;
 		
 		Integer resultado = suma();		
 		System.out.println("Hola mundo " + nombre + " " + resultado.toString());
-		System.out.println("Hola mundo " + nombre);
+		System.out.println("Saludando al vecino " + nombre);
 
 
 		
