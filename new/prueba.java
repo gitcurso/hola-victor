@@ -1,6 +1,4 @@
 public class prueba {
-
-	public static String nombre;	
 	
 	private static String nombre = "Amador";	
 	
