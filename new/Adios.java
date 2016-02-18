@@ -9,7 +9,7 @@ public class Adios {
 
 	public static void main(String[] zz){
 		// Esto arregla el bug 2345
-		System.out.println("Adios mundo cruel" + nombre + suma(2,3));
+		System.out.println("Hola mundo cruel" + nombre + suma(5,3));
 
 	}
 
