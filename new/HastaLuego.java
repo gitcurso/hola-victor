@@ -1,6 +1,6 @@
 public class HastaLuego {
 	
-	private static String nombre = "Pato";
+	private static String nombre = "Harto de cambiar esto";
 	
 	public static void main(String[] zz){
 
